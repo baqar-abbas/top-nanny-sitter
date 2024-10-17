@@ -12,10 +12,14 @@ export default {
         "semi-transparent-black": "#333333",
         "custom-orange": "#FF6F61",
         "custom-black": "#232323",
+        "custom-yellow": "#FFB300",
+        "custom-purple": "#512DA8",
+        "custom-blue": "#59B5FF",
       },
       fontSize: {
         "55px": "55px",
         "18px": "18px",
+        "50px": "50px",
       },
       lineHeight: {
         "65px": "65px",
