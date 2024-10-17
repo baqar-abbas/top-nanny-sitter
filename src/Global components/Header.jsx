@@ -15,7 +15,7 @@ const Header = () => {
       <div className="logo">
         <img src={headerLogo} alt="Header Logo" />
       </div>
-      <nav className="hidden md:flex links font-lato">
+      <nav className="hidden md:!flex links font-lato">
         <ul className="flex">
           <li className="mr-5 hover:underline cursor-pointer">For Families</li>
           <li className="mr-5 hover:underline cursor-pointer">For Nannies</li>
@@ -23,7 +23,7 @@ const Header = () => {
           <li className="hover:underline cursor-pointer">Services</li>
         </ul>
       </nav>
-      <div className="hidden md:block">
+      <div className="hidden md:!block">
         <button className="bg-white text-semi-transparent-black py-1 px-4 border border-gray-600 rounded-3xl transition duration-300 ease-in-out transform hover:bg-gray-200 hover:text-black hover:border-gray-800 hover:shadow-lg hover:scale-105 flex items-center">
           <IoIosHelpCircle className="mr-1" /> Help
         </button>
