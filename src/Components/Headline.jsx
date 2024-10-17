@@ -41,6 +41,14 @@ const Headline = () => {
             Not Sure
           </button>
         </div>
+        <div className="my-5">
+          <p className="font-montserrat font-400 text-base md:text-18px leading-normal md:leading-28px text-custom-black">
+            Have an Account?{" "}
+            <span className="font-montserrat font-700 text-base md:text-18px leading-normal md:leading-28px text-custom-black cursor-pointer">
+              Log in
+            </span>
+          </p>
+        </div>
       </div>
       {/* <div className="w-full md:w-1/2 mt-5 md:mt-0 mr-5">
         <img src={headline} alt="headline image" className="w-full md:w-auto" />

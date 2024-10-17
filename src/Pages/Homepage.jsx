@@ -1,12 +1,13 @@
-import React from "react";
 import Headline from "../components/Headline";
+import MainHome from "../Components/MainHome";
 
 const Homepage = () => {
   return (
-    <div>
+    <main>
       {/* <h1>Homepage</h1> */}
       <Headline />
-    </div>
+      <MainHome />
+    </main>
   );
 };
 
