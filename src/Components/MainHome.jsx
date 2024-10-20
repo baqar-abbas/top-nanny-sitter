@@ -45,28 +45,28 @@ const MainHome = () => {
         </div>
         <div className="ml-10 w-[600px] h-[160.65px] rounded-[40px] opacity-30 bg-custom-yellow mt-5 mx-auto md:mx-0 flex justify-center">
           <div className="flex flex-col">
-            <h2 className="my-5 text-center">Explore at your own pace</h2>
+            <h2 className="my-5 text-center">Finding a nanny job</h2>
             <p>
-              Whether you need a nanny now or later, you’re free to browse at
-              your convenience.
+              Create your profile and connect with families that meet your
+              needs.
             </p>
           </div>
         </div>
         <div className="w-[616px] h-[160.65px] rounded-[40px] opacity-30 bg-custom-purple mt-5 mx-auto md:mx-0">
           <div className="flex flex-col">
-            <h2 className="my-5 text-center">Explore at your own pace</h2>
+            <h2 className="my-5 text-center">Starting your nanny job</h2>
             <p>
-              Whether you need a nanny now or later, you’re free to browse at
-              your convenience.
+              Discuss and finalize the details of your nanny job with the
+              family.
             </p>
           </div>
         </div>
         <div className="w-[616px] h-[160.65px] rounded-[40px] opacity-30 bg-custom-blue mt-5 mx-auto md:mx-0">
           <div className="flex flex-col">
-            <h2 className="my-5 text-center">Explore at your own pace</h2>
+            <h2 className="my-5 text-center">Getting paid on time</h2>
             <p>
-              Whether you need a nanny now or later, you’re free to browse at
-              your convenience.
+              Discuss and finalize the details of your nanny job with the
+              family.
             </p>
           </div>
         </div>
