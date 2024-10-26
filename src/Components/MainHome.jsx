@@ -57,7 +57,7 @@ const MainHome = () => {
             <h2 className="my-5 text-center">Starting your nanny job</h2>
             <p>
               Discuss and finalize the details of your nanny job with the
-              family. updated
+              family.
             </p>
           </div>
         </div>
